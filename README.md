@@ -11,6 +11,7 @@ Working on Cross-platform Support (Windows/Linux/macOS)
 
 
 ✨ Features
+
 🔐 User Registration & Login (with password)
 
 🔁 Auto-login using locally stored credentials
