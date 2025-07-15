@@ -1,4 +1,4 @@
- 🛒 Boogle-Scraper (eBay scraper) (Tkinter GUI + Flask Server)
+ 🛒Snapple-Scraper (eBay scraper) (Tkinter GUI + Flask Server)
 A simple desktop client application built with Tkinter that lets users register, log in, and search eBay listings using a connected Flask server. Supports automatic login and user data persistence.
 
 ✅ Designed for Windows Compatibility
